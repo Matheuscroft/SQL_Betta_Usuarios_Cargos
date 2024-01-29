@@ -1,0 +1,2 @@
+SELECT usu_Nome FROM Usuario
+where usu_Reserva1 = 'ANALISTA DE ADM'

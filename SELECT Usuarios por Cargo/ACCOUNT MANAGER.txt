@@ -1,0 +1,2 @@
+SELECT usu_Codigo, usu_Nome FROM Usuario
+where usu_Reserva1 = 'ACCOUNT MANAGER' AND usu_Ativo = 1;

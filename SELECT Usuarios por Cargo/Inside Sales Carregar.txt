@@ -1,0 +1,2 @@
+SELECT usu_Codigo, usu_Nome FROM Usuario
+WHERE usu_Reserva1 = 'ANALISTA DE INSIDE SALES'
